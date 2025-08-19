@@ -1,4 +1,4 @@
-# ✨ Bem-vindo(a) ao meu GitHub 💖👩🏻‍💻
+# ✨ Bem-vindo(a) 💖👩🏻‍💻
 
 Eu sou a Bruna Derner, economista apaixonada por estatística, econometria e ciência de dados.  
 Aqui compartilho meus projetos, estudos e anotações, que vão desde análises aplicadas até exercícios de cursos e pós-graduação.  
