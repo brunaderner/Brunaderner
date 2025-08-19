@@ -1,6 +1,6 @@
 # ✨ Bem-vindo(a) 💖👩🏻‍💻
 
-Meu nome é Bruna Derner, sou economista e ultimamente tenho me concentrado em estudar análise de dados, estatística e ciência de dados. Aqui compartilho projetos, estudos e anotações, desde análises aplicadas até exercícios de cursos e da pós-graduação. Aqui é onde estou juntando o que estudo e pratico na área de dados.  
+Meu nome é Bruna Derner, sou economista e ultimamente tenho me concentrado em estudar análise de dados, estatística e ciência de dados. Aqui compartilho projetos, estudos e anotações, desde análises aplicadas até exercícios de cursos e da pós-graduação. Aqui é onde estou juntando o que estudo com a prática da área de dados.  
 
 ## Formação 
 - Especialização em Ciência de Dados (UFMG, em andamento)  
