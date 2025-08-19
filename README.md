@@ -1,13 +1,6 @@
 # ✨ Bem-vindo(a) 💖👩🏻‍💻
 
-Eu sou a Bruna Derner, economista apaixonada por estatística, econometria e ciência de dados.  
-Aqui compartilho meus projetos, estudos e anotações, que vão desde análises aplicadas até exercícios de cursos e pós-graduação.  
-Este espaço é meu laboratório pessoal, onde organizo e divido meu aprendizado com quem também gosta de explorar dados.  
-
-## O que você vai encontrar
-- Projetos de Análise de Dados e Ciência de Dados  
-- Estudos e Exercícios de cursos e da pós em Ciência de Dados (UFMG)  
-- Trabalhos acadêmicos, como meu TCC em Economia (modelos de séries temporais no R)  
+Meu nome é Bruna Derner, sou economista e ultimamente tenho me concentrado em estudar análise de dados, estatística e ciência de dados. Aqui compartilho projetos, estudos e anotações, desde análises aplicadas até exercícios de cursos e da pós-graduação. Uso este espaço como um caderno aberto, onde registro o que aprendo e organizo meu caminho na área de dados.  
 
 ## Formação 
 - Especialização em Ciência de Dados (UFMG, em andamento)  
@@ -15,9 +8,19 @@ Este espaço é meu laboratório pessoal, onde organizo e divido meu aprendizado
 - Jornada de Dados (Laboratória Brasil)  
 - Python Impressionador (Hashtag Treinamentos, em andamento)  
 
+
+## Ferramentas e Tecnologias
+- Python (pandas, numpy)
+- R (vars package)  
+- SQL (BigQuery)  
+- Power BI, Looker Studio
+- Excel, Google Sheets   
+- Canva 
+
 ---
+
 ## Contato
-Quer conversar ou trocar ideias?  
+Quer trocar ideias?  
 🔗 [LinkedIn](https://www.linkedin.com/in/bruna-derner)  
 📬 brunaderner29@gmail.com  
 
