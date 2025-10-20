@@ -48,7 +48,8 @@ Aqui estão alguns dos projetos que desenvolvi e mantenho por aqui:
 </a>
 
 <a href="mailto:brunaderner29@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+
 
 
