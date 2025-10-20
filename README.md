@@ -41,15 +41,14 @@ Aqui estão alguns dos projetos que desenvolvi e mantenho por aqui:
 - Canva 
 
 --- 
-## Você também me encontra em: 
+## Você pode entrar em contato comigo por aqui: 
 
 <a href="https://www.linkedin.com/in/bruna-derner">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:brunaderner29@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+
+📧 [brunaderner29@gmail.com](mailto:brunaderner29@gmail.com) 
 
 
 
