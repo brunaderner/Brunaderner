@@ -7,6 +7,10 @@ Para além do âmbito profissional e acadẽmico sou uma pessoa que gosta bastan
 
 E, se você também é fã de Harry Potter (mesmo após polêmicas), me chama pra trocar figurinhas!
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnFsa2hpMHliamxldzY3OGRyYW9nZnY1enUyYjJreXZxY3BiZHY5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IWvuFVQICQIr6/giphy.gif" alt="Bem-vinda GIF" width="400"/>
+</p>
+
 ## Projetos  
 
 Aqui estão alguns dos projetos que desenvolvi e mantenho por aqui:  
@@ -36,10 +40,15 @@ Aqui estão alguns dos projetos que desenvolvi e mantenho por aqui:
 - Excel, Google Sheets   
 - Canva 
 
----
+--- 
+## Você também me encontra em: 
 
-## Contato
-Quer trocar ideias?  
-🔗 [LinkedIn](https://www.linkedin.com/in/bruna-derner)  
-📬 brunaderner29@gmail.com  
+<a href="https://www.linkedin.com/in/bruna-derner">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:brunaderner29@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
 
