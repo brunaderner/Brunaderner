@@ -3,13 +3,6 @@ Sou formada em Ciências Econômicas (UFMT) e faço pós-graduação em Ciência
 
 Neste portfólio, compartilho projetos desenvolvidos durante a Jornada de Dados da Laboratória, além de projetos pessoais, acadêmicos, atividades de processos seletivos, e anotações e exercícios tanto da pós-graduação quanto do curso Python Impressionador da Hashtag. É aqui onde tenho reunido tudo que venho aprendendo e praticando.
 
-Para além do âmbito profissional e acadẽmico sou uma pessoa que gosta bastante de leitura, principalmente romances, fantasia e ficção científica. Gosto MUUUITO de jogos de tabuleiro, mas não ao ponto de conhecer a regra de todos (é sempre bom ter o nosso amigo manual). Faço algumas peças de decoração em cerâmica fria, mas nada que me dê muito orgulho. 
-
-E, se você também é fã de Harry Potter (mesmo após polêmicas), me chama pra trocar figurinhas!
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnFsa2hpMHliamxldzY3OGRyYW9nZnY1enUyYjJreXZxY3BiZHY5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IWvuFVQICQIr6/giphy.gif" alt="Bem-vinda GIF" width="400"/>
-</p>
 
 ## Projetos  
 
