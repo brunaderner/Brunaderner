@@ -1,7 +1,7 @@
 # Olá, meu nome é Bruna 💖👩🏻‍💻
 Sou formada em Ciências Econômicas (UFMT) e faço pós-graduação em Ciência de Dados na UFMG, atualmente estou focada em desenvolver habilidades em python e também em conceitos e modelos estatísticos. 
 
-Neste portfólio, compartilho projetos desenvolvidos durante a Jornada de Dados da Laboratória, além de projetos pessoais, acadêmicos, atividades de processos seletivos, e anotações e exercícios tanto da pós-graduação quanto do curso Python Impressionador da Hashtag. É aqui onde tenho reunido tudo que venho aprendendo e praticando.
+Neste portfólio, compartilho projetos pessoais, acadêmicos, atividades de processos seletivos, e anotações e exercícios tanto da pós-graduação quanto do curso Python Impressionador da Hashtag, além dos projetos desenvolvidos durante a Jornada de Dados da Laboratória. É aqui onde tenho reunido tudo que venho aprendendo e praticando.
 
 
 ## Projetos  
